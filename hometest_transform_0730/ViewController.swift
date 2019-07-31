@@ -54,6 +54,9 @@ class ViewController: UIViewController {
     @IBAction func slider(_ sender: UISlider) {
         //print(sender.value)
         speed = Double(sender.value)
+        
+        
+        //test
     }
     
 }
